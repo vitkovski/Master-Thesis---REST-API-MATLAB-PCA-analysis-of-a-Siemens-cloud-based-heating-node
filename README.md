@@ -1,4 +1,4 @@
-# REST-API-MATLAB-PCA-analysis-of-a-Siemens-cloud-based-heating-node
+# REST API + MATLAB + PCA analysis of a Siemens cloud based heating node
 The aim of the thesis was to investigate the possibility of using the PCA method to analyze
 data collected from real building automation objects with multiple inputs and multiple outputs
 (MIMO). To collect the data, a computational cloud was used, which was communicated
