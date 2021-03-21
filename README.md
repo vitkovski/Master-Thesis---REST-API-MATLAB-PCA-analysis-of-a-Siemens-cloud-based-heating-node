@@ -28,5 +28,5 @@ The study also examined the use of PCA to detect failures in the installation. T
 showed that the principal components analysis is able to correctly indicate the unusual values
 ​​received from the sensors, which can be used to notify the user remotely.
 
-Note: API requests could be wrapped in a function, with these number of requests and necessity to build up vectors after requests I just copy-pasted it
+Note: API requests could be wrapped in a function
 
